@@ -12,7 +12,8 @@ The project is divided into two main stages:
 
 1. Install the required Python packages (if not already installed):
 ```bash
-pip install pyradiomics pydicom SimpleITK pandas numpy matplotlib seaborn scikit-learn
+pip install pyradiomics pydicom SimpleITK pandas numpy matplotlib seaborn scikit-learn 
+```
 
 2. Place your COCA scans and masks in a folder of your choice (path should match notebooks).
 3. Run 1_preprocessing_and_feature_extraction.ipynb first to extract radiomics features.

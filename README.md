@@ -24,13 +24,12 @@ Features Extracted
 - GLCM: Contrast, Correlation, InverseDifferenceMoment
 - GLSZM: SmallAreaEmphasis, LargeAreaEmphasis, ZonePercentage
 - GLRLM: ShortRunEmphasis, LongRunEmphasis, RunPercentage
-- Optional: Max/mean calcium HU, total volume
 
 Analysis Performed:
 
 - Correlation of radiomics features with Agatston scores using Spearman correlation
 - Comparison across Agatston score categories using Kruskal-Wallis test
-- Visualizations: heatmaps, scatter plots, and optional t-SNE/UMAP for phenotype clustering
+- Visualizations: heatmaps, scatter plots, and optional t-SNE/UMAP for phenotype clustering (2_analysis_and_visualization.ipynb)
 
 Notes:
 

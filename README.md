@@ -20,10 +20,10 @@ pip install pyradiomics pydicom SimpleITK pandas numpy matplotlib seaborn scikit
 4. Run 2_analysis_and_visualization.ipynb to calculate Agatston scores, perform statistical analysis, and generate visualizations.
 
 Features Extracted
-- Shape: Sphericity, SurfaceVolumeRatio, Maximum3DDiameter
-- GLCM: Contrast, Correlation, InverseDifferenceMoment
-- GLSZM: SmallAreaEmphasis, LargeAreaEmphasis, ZonePercentage
-- GLRLM: ShortRunEmphasis, LongRunEmphasis, RunPercentage
+- Shape: Sphericity, Surface Volume Ratio, Maximum 3D Diameter
+- GLCM: Contrast, Correlation, Inverse Difference Moment
+- GLSZM: Small Area Emphasis, Large Area Emphasis, Zone Percentage
+- GLRLM: Short Run Emphasis, Long Run Emphasis, Run Percentage
 
 Analysis Performed:
 
